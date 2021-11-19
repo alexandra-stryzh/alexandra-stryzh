@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexandra-stryzh
 - 👀 I’m interested in medicine and IT link
 - 🌱 I’m currently learning Git itself
-- 💞️ I’m looking to collaborate on medical projetcs
+- 💞️ I’m looking to collaborate on medical projects
 - 📫 How to reach me: alexandra.stryzh@gmail.com
 
 <!---
